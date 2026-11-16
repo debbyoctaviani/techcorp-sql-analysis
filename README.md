@@ -158,15 +158,6 @@ WHERE customer_id IN (
 - **SQL** (DDL, DML, joins, aggregation, CTE, subqueries)
 - **Git** and **GitHub** for version control and publishing
 
-## 8. Screenshots
-
-| Top 3 Customers | Average Order Value |
-|---|---|
-| ![](images/01_top_customers.png) | ![](images/02_average_order.png) |
-
-| Resolved Tickets | Unsold Products |
-|---|---|
-| ![](images/03_resolved_tickets.png) | ![](images/04_unsold_products.png) |
 
 ## Author
 

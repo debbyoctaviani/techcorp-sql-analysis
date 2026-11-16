@@ -158,6 +158,28 @@ WHERE customer_id IN (
 - **SQL** (DDL, DML, joins, aggregation, CTE, subqueries)
 - **Git** and **GitHub** for version control and publishing
 
+## 8. Screenshots
+
+**Top 3 customers**
+![Top customers](images/01_top_customers.png)
+
+**Average order value**
+![Average order](images/02_average_order.png)
+
+**Resolved tickets**
+![Resolved tickets](images/03_resolved_tickets.png)
+
+**Unsold products**
+![Unsold products](images/04_unsold_products.png)
+
+**Total revenue**
+![Total revenue](images/05_total_revenue.png)
+
+**Average price per category**
+![Category average price](images/06_category_avg_price.png)
+
+**Customers with an order above 1,000**
+![Customers above 1000](images/07_customers_above_1000.png)
 
 ## Author
 
